@@ -12,3 +12,43 @@
   color: rgb(172, 157, 157);
   overflow-y:auto;
 }
+
+.table,th,tr{
+  background-color:rgb(117, 88, 14);
+  border:10px solid rgb(0, 0, 104);
+  border-collapse: collapse;
+  padding: calc(50px+1vmin) calc(25px + 1vmin);
+  height: calc(50px+1vmin);
+  width:100vw;
+  color:black;
+}
+
+td{
+  border:5px solid rgb(0, 0, 104);
+  border-collapse:collapse;
+}
+
+#force-end-game{
+  background: #ff0000;
+  color: #fff;
+  padding: 10px;
+  border: solid 3px #6d0000;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 2vmax;
+}
+
+#start-voting{
+  background: #0077ff;
+  color: #fff;
+  padding: 10px;
+  border: solid 3px #14006d;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 2vmax;
+}
+
+#last-log{
+  background-color: whitesmoke;
+  color:black;
+}
