@@ -28,6 +28,10 @@ td{
   border-collapse:collapse;
 }
 
+table tr:nth-child(odd){
+  background:rgb(161, 120, 16);
+}
+
 #force-end-game{
   background: #ff0000;
   color: #fff;
