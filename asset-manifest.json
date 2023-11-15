@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amongus-technovanza-admin/static/css/main.d06f216a.css",
+    "main.css": "/amongus-technovanza-admin/static/css/main.0cde889b.css",
     "main.js": "/amongus-technovanza-admin/static/js/main.3ecbe28d.js",
     "static/js/787.3982f857.chunk.js": "/amongus-technovanza-admin/static/js/787.3982f857.chunk.js",
     "index.html": "/amongus-technovanza-admin/index.html",
-    "main.d06f216a.css.map": "/amongus-technovanza-admin/static/css/main.d06f216a.css.map",
+    "main.0cde889b.css.map": "/amongus-technovanza-admin/static/css/main.0cde889b.css.map",
     "main.3ecbe28d.js.map": "/amongus-technovanza-admin/static/js/main.3ecbe28d.js.map",
     "787.3982f857.chunk.js.map": "/amongus-technovanza-admin/static/js/787.3982f857.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d06f216a.css",
+    "static/css/main.0cde889b.css",
     "static/js/main.3ecbe28d.js"
   ]
 }
